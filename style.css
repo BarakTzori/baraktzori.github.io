@@ -12,7 +12,7 @@ h4 {
   letter-spacing: 0px;
 }
 
-.about-me p{
+.about-me .pure-g p{
   font-family: 'Prata', serif;
   font-size: 16px;
   line-height: 32px;
