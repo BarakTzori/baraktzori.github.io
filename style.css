@@ -1,0 +1,37 @@
+h2 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 100px;
+  line-height: 120px;
+  letter-spacing: 0px;
+}
+
+h4 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 30px;
+  line-height: 0px;
+  letter-spacing: 0px;
+}
+
+.about-me p{
+  font-family: 'Prata', serif;
+  font-size: 16px;
+  line-height: 32px;
+  letter-spacing: 0px;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+ul p {
+  font-family: 'Prata', serif;
+  font-size: 16px;
+  line-height: 16px;
+  letter-spacing: 0px;
+  margin: 10px 0;
+}
+
+a {
+  color: inherit;
+}
